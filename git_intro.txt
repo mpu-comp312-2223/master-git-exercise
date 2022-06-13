@@ -13,4 +13,4 @@ version-tracking abilities, independent of network access or a central
 server. (Excerpted from Wikipedia)
 
 ** Type your name here **
-** Add a date here **
+25th August
