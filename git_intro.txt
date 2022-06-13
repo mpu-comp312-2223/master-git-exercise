@@ -1,4 +1,4 @@
-Git Introduction
+** Add a title here **
 
 Git is software for tracking changes in any set of files,
 usually used for coordinating work among programmers collaboratively
@@ -13,4 +13,4 @@ version-tracking abilities, independent of network access or a central
 server. (Excerpted from Wikipedia)
 
 ** Type your name here **
-25th August
+** Add a date here **
